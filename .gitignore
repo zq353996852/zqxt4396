@@ -1,0 +1,9 @@
+.idea/
+
+__pycache__/
+
+zqxt4396/migrations/
+db.sqlite3
+
+admin/migrations/
+
